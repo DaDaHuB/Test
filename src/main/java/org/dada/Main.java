@@ -12,5 +12,6 @@ public class Main {
         }else{
             System.out.println("No world");
         }
+        System.out.println("Github测试");
     }
 }
