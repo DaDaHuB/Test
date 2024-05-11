@@ -13,5 +13,6 @@ public class Main {
             System.out.println("No world");
         }
         System.out.println("Github测试");
+        System.out.println("Github测试2");
     }
 }
